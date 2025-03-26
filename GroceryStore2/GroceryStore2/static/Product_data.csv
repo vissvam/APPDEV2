@@ -1,0 +1,5 @@
+P_ID,C_ID,Product Name,Price,Remaining Quantity,No of Units Sold
+1,1,milk,80,79,21
+2,1,paneer,150,79,21
+3,2,Apple,120,85,15
+4,2,orange,160,83,17
